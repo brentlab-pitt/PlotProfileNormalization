@@ -19,3 +19,5 @@ If you are getting empty graphs, double check you are choosing the correct direc
 
 ### Normalization Process
 Y values are normalized by subtracting minimum Y value from all Y-values then dividing by the range of Y (difference between the maximum and minimum values of Y). The same process is down for X. Then interpolation is performed to ensure both X and Y data points have exactly 100 points
+
+Developed by Oliver Sterling-Angus https://github.com/oes6098
